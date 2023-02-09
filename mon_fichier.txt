@@ -1,3 +1,4 @@
 mon premier commit en ligne
 modif de Baptiste Piazzola
 Bonjour je cree un conflict
+J'ajoute une nouvelle ligne pour le 8.3
