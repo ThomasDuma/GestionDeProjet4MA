@@ -1,2 +1,3 @@
 mon premier commit en ligne
 modif de Baptiste Piazzola
+Bonjour je cree un conflict
