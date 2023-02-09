@@ -1,3 +1,4 @@
 mon premier commit en ligne
 modif de Baptiste Piazzola
 Bonjour je cree un conflict
+Modification utilisateur bis part 8.3 merge
